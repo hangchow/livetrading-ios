@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <rect width="390" height="844" fill="#f5f7fa"/>
+  <rect x="0" y="0" width="390" height="92" fill="#fff"/>
+  <polyline points="22,38 14,46 22,54" fill="none" stroke="#2f80ed" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="28" y="50" font-size="17" font-family="Arial" fill="#2f80ed">首页</text>
+  <text x="170" y="50" font-size="22" font-family="Arial" fill="#111">功能</text>
+
+  <rect x="16" y="112" width="358" height="172" rx="16" fill="#fff" stroke="#d7dbe2"/>
+
+  <circle cx="42" cy="148" r="12" fill="#dbeafe"/>
+  <rect x="36" y="142" width="12" height="4" rx="2" fill="#2f80ed"/>
+  <rect x="36" y="148" width="12" height="4" rx="2" fill="#2f80ed"/>
+  <text x="66" y="152" font-size="18" font-family="Arial" fill="#111">所有服务端</text>
+  <text x="66" y="174" font-size="13" font-family="Arial" fill="#667085">返回首页服务端列表</text>
+  <polyline points="344,140 352,148 344,156" fill="none" stroke="#98a2b3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <line x1="28" y1="188" x2="362" y2="188" stroke="#e4e7ec"/>
+
+  <circle cx="42" cy="224" r="12" fill="#ecfdf3"/>
+  <circle cx="42" cy="224" r="6" fill="none" stroke="#12b76a" stroke-width="2"/>
+  <circle cx="42" cy="224" r="2" fill="#12b76a"/>
+  <text x="66" y="228" font-size="18" font-family="Arial" fill="#111">设置</text>
+  <text x="66" y="250" font-size="13" font-family="Arial" fill="#667085">我的 ID、relayd 参数、自动重连、响应超时</text>
+  <polyline points="344,216 352,224 344,232" fill="none" stroke="#98a2b3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <line x1="28" y1="268" x2="362" y2="268" stroke="#e4e7ec"/>
+
+  <circle cx="42" cy="304" r="12" fill="#fff1f3"/>
+  <text x="39" y="309" font-size="16" font-family="Arial" fill="#e11d48">i</text>
+  <text x="66" y="308" font-size="18" font-family="Arial" fill="#111">关于</text>
+  <text x="66" y="330" font-size="13" font-family="Arial" fill="#667085">版本信息、项目链接、说明文档</text>
+  <polyline points="344,296 352,304 344,312" fill="none" stroke="#98a2b3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="24" y="358" font-size="14" font-family="Arial" fill="#667085">从首页左上角“功能”按钮进入，全屏页面以 push 动效出现。</text>
+</svg>
