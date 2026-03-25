@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <rect width="390" height="844" fill="#f5f7fa"/>
+  <text x="24" y="52" font-size="28" font-family="Arial" fill="#111">新增服务端</text>
+  <rect x="302" y="24" width="64" height="34" rx="8" fill="#2f80ed"/>
+  <text x="318" y="46" font-size="16" font-family="Arial" fill="#fff">保存</text>
+
+  <text x="24" y="104" font-size="14" font-family="Arial" fill="#667085">名称</text>
+  <rect x="24" y="112" width="342" height="52" rx="10" fill="#fff" stroke="#d7dbe2"/>
+  <text x="36" y="145" font-size="18" font-family="Arial" fill="#111">招商证券-主账户</text>
+
+  <text x="24" y="210" font-size="14" font-family="Arial" fill="#667085">peerClientID</text>
+  <rect x="24" y="218" width="342" height="52" rx="10" fill="#fff" stroke="#d7dbe2"/>
+  <text x="36" y="251" font-size="18" font-family="Arial" fill="#111">strategy-cn-001</text>
+
+  <text x="24" y="316" font-size="14" font-family="Arial" fill="#667085">标签（可选）</text>
+  <rect x="24" y="324" width="342" height="52" rx="10" fill="#fff" stroke="#d7dbe2"/>
+  <text x="36" y="357" font-size="18" font-family="Arial" fill="#111">A股, 主账户, 日内</text>
+
+  <text x="24" y="420" font-size="14" font-family="Arial" fill="#667085">自动重连</text>
+  <rect x="310" y="396" width="56" height="30" rx="15" fill="#2f80ed"/>
+  <circle cx="348" cy="411" r="12" fill="#fff"/>
+</svg>

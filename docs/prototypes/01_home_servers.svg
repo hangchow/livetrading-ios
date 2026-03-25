@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <rect width="390" height="844" fill="#f5f7fa"/>
+  <text x="24" y="52" font-size="28" font-family="Arial" fill="#111">量化服务端</text>
+  <rect x="290" y="24" width="76" height="34" rx="8" fill="#2f80ed"/>
+  <text x="304" y="46" font-size="16" font-family="Arial" fill="#fff">+ 添加</text>
+
+  <rect x="18" y="90" width="354" height="120" rx="14" fill="#fff" stroke="#d7dbe2"/>
+  <text x="34" y="128" font-size="20" font-family="Arial" fill="#111">招商证券-主账户</text>
+  <text x="34" y="158" font-size="14" font-family="Arial" fill="#667085">peerClientID: strategy-cn-001</text>
+  <text x="300" y="158" font-size="14" font-family="Arial" fill="#16a34a">在线</text>
+
+  <rect x="18" y="226" width="354" height="120" rx="14" fill="#fff" stroke="#d7dbe2"/>
+  <text x="34" y="264" font-size="20" font-family="Arial" fill="#111">美股账户A</text>
+  <text x="34" y="294" font-size="14" font-family="Arial" fill="#667085">peerClientID: strategy-us-007</text>
+  <text x="300" y="294" font-size="14" font-family="Arial" fill="#667085">空闲</text>
+
+  <rect x="18" y="362" width="354" height="120" rx="14" fill="#fff" stroke="#d7dbe2"/>
+  <text x="34" y="400" font-size="20" font-family="Arial" fill="#111">CTA账户B</text>
+  <text x="34" y="430" font-size="14" font-family="Arial" fill="#667085">peerClientID: strategy-futures-002</text>
+  <text x="286" y="430" font-size="14" font-family="Arial" fill="#dc2626">重连中</text>
+</svg>
